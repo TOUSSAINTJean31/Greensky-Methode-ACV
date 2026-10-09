@@ -11,10 +11,3 @@ Fonctionnalités clés
 **Interface graphique intuitive** : Saisie des données simplifiée et visualisation rapide des résultats.
 
 **Comparaison de scénarios** : Aide à la décision pour orienter les choix de conception vers des alternatives plus durables.
-
-Prérequis & Dépendances
-
-Python 3.8+
-Bibliothèques requises :
-```bash
-pip install -r requirements.txt
